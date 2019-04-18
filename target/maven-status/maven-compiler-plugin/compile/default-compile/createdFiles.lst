@@ -1,0 +1,6 @@
+net\wanho\service\StudentServiceI.class
+net\wanho\proj\Student.class
+net\wanho\util\JsonResult.class
+net\wanho\controller\StudentController.class
+net\wanho\service\impl\StudentServiceImpl.class
+net\wanho\mapper\StudentMapper.class
